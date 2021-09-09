@@ -1,0 +1,16 @@
+.container-main-location{
+  display: flex;
+  flex-direction: column-reverse;
+  width: 200px;
+  height: calc(100% - 300px);
+  background-color: rgba(0, 128, 128, 0.452);
+  padding: 8px;
+  gap: 2px;
+  border-radius: 5px 0px 5px 0px ;
+}
+
+.location-list{
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}

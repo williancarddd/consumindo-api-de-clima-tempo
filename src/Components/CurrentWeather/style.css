@@ -1,0 +1,21 @@
+.info-container{
+  display: flex;
+  flex-direction: column-reverse;
+  width: 200px;
+  height: calc(100% - 250px );
+  background-color: rgba(0, 128, 128, 0.452);
+  padding: 8px;
+  gap: 2px;
+  margin: 4px;
+  border-radius: 5px 0px 5px 0px ;
+}
+
+.list-info{
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+.image {
+  display: block;
+  margin: auto;
+}
